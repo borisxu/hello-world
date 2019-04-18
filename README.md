@@ -1,2 +1,2 @@
 # hello-world
-my first git repository
+I have made some changes here.
